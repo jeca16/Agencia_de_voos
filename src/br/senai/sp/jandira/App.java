@@ -8,5 +8,7 @@ public class App {
         Voo voo1 = new Gol(67584, "Rio de Janeiro ", "França", "Gol", 800);
         Voo voo2 = new Azul(89746, "Nova York", "Texas", "Azul", 900);
         Voo voo3 = new Latam(49824, "Fortaleza", "Egito", "Latam", 850);
+
+        
     }
 }

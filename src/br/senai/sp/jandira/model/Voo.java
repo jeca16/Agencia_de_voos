@@ -2,7 +2,7 @@ package br.senai.sp.jandira.model;
 
 import java.time.LocalDate;
 
-public class Voo {
+abstract class Voo {
     private String origem, destino, companhia;
     private int numVoo, capacidadePassageiros;
 
